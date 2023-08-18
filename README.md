@@ -1,2 +1,2 @@
-# luna
-Luna é um dashboard com modulos para diversos seguimentos.
+# Desafio Git / Github
+Criar o primeiro repositório público.
